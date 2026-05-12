@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: cleanbot-server
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_ENV
+        value: production
