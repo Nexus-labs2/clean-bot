@@ -60,9 +60,9 @@
 #include <ESP32Servo.h>
 
 // ── EDIT THESE ────────────────────────────────────────────
-const char* WIFI_SSID     = "YOUR_WIFI_NAME";
-const char* WIFI_PASSWORD = "YOUR_WIFI_PASSWORD";
-const char* SERVER_URL    = "https://YOUR-APP.onrender.com";
+const char* WIFI_SSID     = "realme narzo 60 5G";
+const char* WIFI_PASSWORD = "n737rmzs";
+const char* SERVER_URL    = "aecrr-1.onrender.com";
 // ─────────────────────────────────────────────────────────
 
 
